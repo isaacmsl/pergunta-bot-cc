@@ -16,7 +16,8 @@ A ideia é um chatbot no Telegram que possa responder dúvidas sobre o PPC do cu
 - [x] Estruturar/sumarizar conteúdos de páginas
 - [x] Bot Telegram: Hello, world!
 - [x] Bot Telegram processa/responde mensagens dos usuários
-- [ ] Sei lá, deixar no ar (alguém financia por favor)
+- [ ] Evalutation para qualificar as respostas da IA
+- [ ] Deixar no ar (alguém financia, por favor?)
 
 ## Como rodar
 
