@@ -2,6 +2,8 @@
 
 A ideia é um chatbot no Telegram que possa responder dúvidas sobre o PPC do curso de Ciência da Computação (BCC) na UFRN.
 
+![image](https://github.com/isaacmsl/pergunta-bot-cc/assets/31693006/95820034-ce6d-4fa9-83ca-a9987c23d970)
+
 ## Ferramentas
 
 - Python 3
